@@ -22,5 +22,5 @@ print("Odd numbers count:", odd_numbers)
 print("Even numbers count:", even_numbers)
 
 # Exit the program
-input("Press enter key to exit program...")
+input("Press enter key to exit program")
 
