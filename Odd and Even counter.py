@@ -7,6 +7,8 @@ even_numbers = 0
 
 # Read the first number
 number = int(input("Enter a number or type 0 to stop: "))
+
+# 0 terminates execution
 while number != 0:
     if number % 2 == 1:
         odd_numbers += 1
